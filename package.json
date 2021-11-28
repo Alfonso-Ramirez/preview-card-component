@@ -2,7 +2,7 @@
   "name": "preview-card-component",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
