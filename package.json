@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://imjoaq.github.io/preview-card-component",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
